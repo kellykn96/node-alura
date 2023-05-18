@@ -1,11 +1,12 @@
 {
-  "name": "alura",
+  "name": "node-alura",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "type": "module",
+  "repository": "https://github.com/kellykn96/node-alura.git",
+  "author": "Kelly Knoblauch <kellyKnobla@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "5.0.1"
+  }
 }
